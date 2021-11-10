@@ -1,8 +1,9 @@
 package Modelos;
 
+
 public class Apuesta {
     private String Apuesta;
-    private String Fecha;
+    private Apostador Fecha;
     private String EquipoLocal;
     private String EquipoVisita;
     private String Resultado;
